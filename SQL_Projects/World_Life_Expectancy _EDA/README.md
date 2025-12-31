@@ -68,7 +68,7 @@ The main goals of this analysis are to:
 ## SQL Techniques Used
 - Aggregations (`AVG`, `MIN`, `MAX`)
 - Conditional logic (`CASE WHEN`)
-- Window functions (`SUM OVER`, `NTILE`)
+- Window functions (`SUM`, `NTILE`)
 - Grouping and filtering
 - Percentile-based analysis
 - Time-based trend analysis
