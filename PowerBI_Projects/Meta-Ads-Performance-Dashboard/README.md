@@ -19,6 +19,9 @@ It simulates a real-world marketing analytics use case and follows professional 
 * Detect funnel drop-offs and optimization opportunities
 * Support data-driven marketing investment decisions
 
+🌐 Live Interactive Report
+👉 Live dashboard link: https://app.powerbi.com/view?r=eyJrIjoiYTc5Y2QyOWQtODk3My00N2VkLWFmNzYtZjk5NTBjNzA0NjA1IiwidCI6ImZkM2YzMjMwLTE5YzQtNDAxNy1iMGNlLTBmZTJmYjU4OWQzOCJ9
+
 📌 Key KPIs Tracked
 * Impressions
 * Clicks
@@ -111,5 +114,5 @@ meta-ads-performance-dashboard/
 └── docs/
 
 🌐 Live Interactive Report
-👉 Live dashboard link: 
+👉 Live dashboard link: https://app.powerbi.com/view?r=eyJrIjoiYTc5Y2QyOWQtODk3My00N2VkLWFmNzYtZjk5NTBjNzA0NjA1IiwidCI6ImZkM2YzMjMwLTE5YzQtNDAxNy1iMGNlLTBmZTJmYjU4OWQzOCJ9
 
