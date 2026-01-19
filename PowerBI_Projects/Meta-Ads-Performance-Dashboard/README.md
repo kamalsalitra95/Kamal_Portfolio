@@ -1,5 +1,7 @@
 # Meta Ads Performance Dashboard
 
+👉 Live dashboard link: https://app.powerbi.com/view?r=eyJrIjoiYTc5Y2QyOWQtODk3My00N2VkLWFmNzYtZjk5NTBjNzA0NjA1IiwidCI6ImZkM2YzMjMwLTE5YzQtNDAxNy1iMGNlLTBmZTJmYjU4OWQzOCJ9
+
 🔍 Project Overview
 
 This project delivers an end-to-end Power BI analytics solution for evaluating paid advertising performance across Meta platforms (Facebook & Instagram).
@@ -18,9 +20,6 @@ It simulates a real-world marketing analytics use case and follows professional 
 * Measure engagement quality and conversion efficiency
 * Detect funnel drop-offs and optimization opportunities
 * Support data-driven marketing investment decisions
-
-🌐 Live Interactive Report
-👉 Live dashboard link: https://app.powerbi.com/view?r=eyJrIjoiYTc5Y2QyOWQtODk3My00N2VkLWFmNzYtZjk5NTBjNzA0NjA1IiwidCI6ImZkM2YzMjMwLTE5YzQtNDAxNy1iMGNlLTBmZTJmYjU4OWQzOCJ9
 
 📌 Key KPIs Tracked
 * Impressions
