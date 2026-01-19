@@ -40,9 +40,8 @@ Interactive visuals allow quick identification of performance gaps and operation
   * Business-driven dashboard design
 
 👤 Author
-Kamal
-Data Analyst | Power BI | Tableau | SQL | Python
+ 
+ Kamal Salitra
+ 
+ Data Analyst | Power BI | Tableau | SQL | Python
 
-# 🌐 Live Interactive Dashboard  
-👉 View the Tableau Public dashboard here:
-https://public.tableau.com/views/KPIDashboardCustomerSupportAnalytics/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
